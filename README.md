@@ -17,7 +17,7 @@
 - **Languages**: Java 💪, C, Python (basic), PHP  
 - **Web Dev**: Django, HTML, CSS, JS, Angular (old)  
 - **Tools**: Git, GitHub  
-- **Other**: JavaFX, basic Android dev  
+- **Other**: JavaFX, basic Android dev , DSA
 - **Cloud & DevOps**: AWS, Docker (learning phase)
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/tirth-gajera-1918a6244/) • [Email](mailto:tirthgajera12345@gmail.com)
 
 ---
 
