@@ -20,27 +20,41 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages**: Java 💪, C, Python (basic), PHP  
-- **Web Dev**: Django, HTML, CSS, JS, Angular (old)  
-- **Tools**: Git, GitHub  
-- **Other**: JavaFX, basic Android dev , DSA
+
+- **Languages**: Java 💪, C, Python (basic), PHP
+  
+- **Web Dev**: Django, HTML, CSS, JS, Angular (old)
+  
+- **Tools**: Git, GitHub
+  
+- **Other**: JavaFX, basic Android dev, DSA
+
 - **Cloud & DevOps**: AWS, Docker (learning phase)
 
 ---
 
 ### 🏆 Achievements:
+
 - 🥷 Ninja - The Slayer (2D Desktop Game)
+  
 - 🧑‍🤝‍🧑 Python World (Developer Community Site)
+  
 - 🤝 Meetify (App to connect professionals)
+  
 - ⚡ Multiple Hackathon Participant
+  
 - 🌐 Ex IEEE Member
 
 ---
 
 ### 💡 About Me:
-- 🔥 Smart worker with a leadership mindset  
-- 💬 Always happy to collaborate and help others  
-- 🎯 Goal: High-paying tech job → Entrepreneur/CEO  
+
+- 🔥 Smart worker with a leadership mindset
+  
+- 💬 Always happy to collaborate and help others
+  
+- 🎯 Goal: High-paying tech job → Entrepreneur/CEO
+  
 - ♟️ Hobby: Chess (helps in strategy & logic building!)
 
 ---
