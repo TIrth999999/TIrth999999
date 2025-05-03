@@ -4,11 +4,17 @@
 ---
 
 🌱 I’m currently studying **Information Technology Engineering** (Graduating 2026)  
+
 👨‍💻 I love working on real-world projects and exploring how tech can change lives  
+
 🔍 Currently looking for internships, freelance gigs, and job opportunities  
+
 🎮 Built a JavaFX Game: **Ninja - The Slayer**  
+
 🌐 Created a developer platform: **Python World**  
+
 📱 Developed an Android App: **Meetify**  
+
 🧠 Learning DSA and planning to dive into AI soon!
 
 ---
