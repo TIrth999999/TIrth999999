@@ -9,11 +9,11 @@
 
 🔍 Currently looking for internships, freelance gigs, and job opportunities  
 
-🎮 Built a JavaFX Game: **Ninja - The Slayer**  
+🎮 Built a Java Game: **Ninja - The Slayer**  
 
 🌐 Created a developer platform: **Python World**  
 
-📱 Developed an Android App: **Meetify**  
+📱 Developed Real-Time Collaborative Code Editor: **Eddix**  
 
 🧠 Learning DSA and planning to dive into AI soon!
 
